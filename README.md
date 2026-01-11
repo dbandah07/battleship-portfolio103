@@ -24,3 +24,6 @@ The project emphasizes **object-oriented design, game-state management, and modu
 - Ship system using inheritance/polymorphism:
   - `Ship` base class
   - `Small`, `Med`, `Large` ship types with different sizes
+ 
+## Notes
+Completed during Spring 2025. 
